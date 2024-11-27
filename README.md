@@ -2,7 +2,7 @@
 
 An Android Developer from Istanbul/Türkiye
 
-- 🌱 I’m currently learning ### Android Kotlin
+- 🌱 I’m currently learning <h3> Android Kotlin</h3>
 - 📫 How to reach me: ademsoner34@hotmail.com
 
 ### 🤝 Connect with me:
