@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Adem
 
-<!--
-**AdemSoner/AdemSoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Android Developer from Istanbul/Türkiye
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ### Android Kotlin
+- 📫 How to reach me: ademsoner34@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/adem-soner/"><img align="left" src="https://raw.githubusercontent.com/AdemSoner/AdemSoner/main/images/linkedin.svg" alt="Adem Soner | LinkedIn" width=”21px"/></a>
+<a href="https://www.instagram.com/ademmsoner/"><img align="left" src="https://raw.githubusercontent.com/AdemSoner/AdemSoner/main/images/instagram.svg" alt="Adem Soner | Instagram" width="21px"/></a>
+<a href="https://medium.com/@ademsoner34/"><img align="left" src="https://raw.githubusercontent.com/AdemSoner/AdemSoner/main/images/medium.svg" alt="Adem Soner | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
