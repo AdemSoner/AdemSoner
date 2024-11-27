@@ -11,6 +11,6 @@ An Android Developer from Istanbul/Türkiye
 <a href="https://www.instagram.com/ademmsoner/"><img align="left" src="https://raw.githubusercontent.com/AdemSoner/AdemSoner/main/images/instagram.svg" alt="Adem Soner | Instagram" width="21px"/></a>
 <a href="https://medium.com/@ademsoner34/"><img align="left" src="https://raw.githubusercontent.com/AdemSoner/AdemSoner/main/images/medium.svg" alt="Adem Soner | Medium" width="21px"/></a>
 
-</br>
+<br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
