@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Adem
 
-An Android Developer from Istanbul/Türkiye
+A FullStack Developer from Istanbul/Türkiye
 
+- 🌱 I’m currently learning <b> C# .Net </b>
+- 🌱 I’m currently learning <b> RPA </b>
 - 🌱 I’m currently learning <b> Android Kotlin</b>
-- 📫 How to reach me: ademsoner34@hotmail.com
+- 📫 How to reach me: ademmsoner@gmail.com
 
 ### 🤝 Connect with me:
 
