@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Adem
 
-A FullStack Developer from Istanbul/Türkiye
+A Backend Developer from Istanbul/Türkiye
 
 - 🌱 I’m currently learning <b> C# .Net </b>
 - 🌱 I’m currently learning <b> RPA </b>
